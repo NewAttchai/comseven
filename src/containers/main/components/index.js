@@ -1,0 +1,6 @@
+export { default as Piechart } from './piechart/piechart'
+export { default as Calendar } from './calendar/calendar'
+export { default as Table } from './table/table'
+export { default as Detail } from './detail/detail'
+export { default as InputDetail } from './detail/inputFordetail/inputdetail'
+export { default as InputCalendar } from './calendar/inputForCalender/inputcalendar'
